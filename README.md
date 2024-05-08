@@ -20,8 +20,6 @@ Methodology
 The project utilizes time series analysis techniques to develop forecasting models. This includes exploratory data analysis (EDA) to understand patterns and trends in the data, feature engineering to create relevant predictors, and model selection and evaluation using techniques such as ARIMA, SARIMA, Prophet, and LSTM neural networks.
 
 
-ChatGPT
-Certainly! Here's a template for an efficient README for your Walmart sales forecasting project repository on GitHub:
 
 Walmart Sales Forecasting with Time Series Analysis
 
